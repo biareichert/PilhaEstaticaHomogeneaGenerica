@@ -1,8 +1,8 @@
+Trabalho relacionado a disciplina de Projeto e Análise de Algoritmos do Curso Mestrado Acadêmico em Computação Aplicada.
+
 Equipe: Beatriz B. Martins, Beatriz M. Reichert, Karine A. Córdova
 Atividade: Implementação de uma Pilha Estática Homogênea Genérica
 
-Dado que não foi especificado uma máquina para testar a implementação, nós utilizamos 
-a ens1. O código está executando sem problemas.
 A nossa aplicação tem como objetivo a interação com o usuário. Este terá o seguinte menu
 de opções:
     0.  Sair
